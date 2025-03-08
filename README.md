@@ -1,4 +1,4 @@
 # Srajal-demo
 This is my first Git Repository.
 <br>
-Author - Srajal
+Author - Srajal agrawal (Sezz)
